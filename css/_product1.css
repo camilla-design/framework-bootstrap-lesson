@@ -1,0 +1,17 @@
+.breadcrumb a {
+    color: var(--primary-colour);
+    text-transform: none;
+    font-family: 'Archivo Narrow';
+}
+.breadcrumb {
+    background-color: var(--background-colour);
+}
+.active-page  {
+    color: white;
+    font-family: 'Archivo Narrow';
+}
+.tags span {
+    font-size: 14px;
+    padding: 8px;
+    border-radius: 25%;
+}
